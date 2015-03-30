@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+    <test6_user id="7" userid="dudette" name="The Dudess"
+                email="dudess@dude.com"
+                password="49506d29656ad62805497b221a6bedacc304ad6496997f17fb39431dd462cf48"
+                joined="2015-01-22 23:50:26" role="1" salt="Nohp6^v$m(`qm#$o"/>
+    <test6_user id="8" userid="cbowen" name="Charles Owen"
+                email="cbowen@cse.msu.edu"
+                password="14831e3f21b423a557a0aa99a391a57a2400ef0fdade328890c9048ad3a8ab6a"
+                joined="2015-01-01 23:50:26" role="1" salt="aeLWK6k`jzPpgZMi" />
+</dataset>
